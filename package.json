@@ -1,0 +1,18 @@
+{
+  "name": "wsq-vitepress-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 9001 --host",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.65",
+    "vue": "^3.3.0-alpha.9"
+  }
+}
