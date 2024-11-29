@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.65",
-    "vue": "^3.3.0-alpha.9"
+    "vitepress": "1.5.0",
+    "vue": "^3.5.13"
   }
 }
